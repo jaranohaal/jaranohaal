@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jaranohaal
 - 👀 I’m interested in software engineering
-- 🌱 I’m currently learning django framework
+- 🌱 I’m currently learning React.js and Node.js frameworks
 - 📫 How to reach me https://www.linkedin.com/in/maksat-faizuldanov/
 
 <!---
