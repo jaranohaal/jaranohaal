@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @jaranohaal
-- 👀 I’m interested in software engineering
-- 🌱 I’m currently learning React.js and Node.js frameworks
+- 👀 I’m interested in data science
+- 🌱 I’m currently building pet projects for my CV
+- 📈 Looking for a job...
 - 📫 How to reach me https://www.linkedin.com/in/maksat-faizuldanov/
 
 <!---
