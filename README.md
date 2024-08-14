@@ -1,4 +1,6 @@
-<img src="https://github.com/user-attachments/assets/626ba47d-d271-47a7-848c-6c88d93363fc" width="700" alt="background">
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/626ba47d-d271-47a7-848c-6c88d93363fc" width="600" alt="background">
+</p>
 
 ### About Me
 
@@ -15,6 +17,7 @@ I've also had the opportunity to apply my skills in various projects, including 
 ![Oracle](https://img.shields.io/badge/-Oracle-000?&logo=Oracle)
 ![Transformers](https://img.shields.io/badge/-Transformers-000?&logo=Hugging%20Face)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
+
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-000?&logo=scikit-learn)
 ![Keras](https://img.shields.io/badge/-Keras-000?&logo=Keras)
 ![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=Pandas)
@@ -26,6 +29,13 @@ I've also had the opportunity to apply my skills in various projects, including 
 [![Whisper-finetune-Kyrgyz](https://img.shields.io/badge/-Whisper--finetune--Kyrgyz-000?&logo=GitHub)](https://github.com/jaranohaal/Whisper-finetune-Kyrgyz)
 [![ViT-base-violence-detection](https://img.shields.io/badge/-ViT--base--violence--detection-000?&logo=GitHub)](https://github.com/jaranohaal/vit-base-violence-detection)
 [![Fake-news-classification](https://img.shields.io/badge/-Fake--news--classification-000?&logo=GitHub)](https://github.com/jaranohaal/Fake-news-classification)
+
+### HuggingFace Profile
+[![jaranohaal](https://img.shields.io/badge/-jaranohaal-000?&logo=Hugging%20Face)](https://huggingface.co/jaranohaal)
+
+### Kaggle Profile
+[![maksatfaizuldanov](https://img.shields.io/badge/-maksatfaizuldanov-000?&logo=Kaggle)](https://www.kaggle.com/maksatfaizuldanov)
+
 <!---
 jaranohaal/jaranohaal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
