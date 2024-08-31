@@ -17,15 +17,21 @@ I've also had the opportunity to apply my skills in various projects, including 
 ![Oracle](https://img.shields.io/badge/-Oracle-000?&logo=Oracle)
 ![Transformers](https://img.shields.io/badge/-Transformers-000?&logo=Hugging%20Face)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
-
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-000?&logo=scikit-learn)
 ![Keras](https://img.shields.io/badge/-Keras-000?&logo=Keras)
+
 ![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=Pandas)
 ![NumPy](https://img.shields.io/badge/-NumPy-000?&logo=NumPy)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-000?&logo=Matplotlib)
+![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-000?&logo=Apache%20Airflow)
+![Qlik Sense](https://img.shields.io/badge/-Qlik%20Sense-000?&logo=Qlik)
+![Excel](https://img.shields.io/badge/-Excel-000?&logo=Microsoft%20Excel)
+![Power BI](https://img.shields.io/badge/-Power%20BI-000?&logo=Power%20BI)
+![Tableau](https://img.shields.io/badge/-Tableau-000?&logo=Tableau)
 
 ### Pet Projects
 
+[![Movie-similarities](https://img.shields.io/badge/-Movie--similarities-000?&logo=GitHub)](https://github.com/jaranohaal/Movie-similarities)
 [![Whisper-finetune-Kyrgyz](https://img.shields.io/badge/-Whisper--finetune--Kyrgyz-000?&logo=GitHub)](https://github.com/jaranohaal/Whisper-finetune-Kyrgyz)
 [![ViT-base-violence-detection](https://img.shields.io/badge/-ViT--base--violence--detection-000?&logo=GitHub)](https://github.com/jaranohaal/vit-base-violence-detection)
 [![Fake-news-classification](https://img.shields.io/badge/-Fake--news--classification-000?&logo=GitHub)](https://github.com/jaranohaal/Fake-news-classification)
