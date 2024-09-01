@@ -30,6 +30,7 @@ I've also had the opportunity to apply my skills in various projects, including 
 ### Pet Projects
 
 [![Movie-similarities](https://img.shields.io/badge/-Movie--similarities-000?&logo=GitHub)](https://github.com/jaranohaal/Movie-similarities)
+[![Data-Professional-Survey-Breakdown](https://img.shields.io/badge/-Data--Professional--Survey--Breakdown-000?&logo=GitHub)](https://github.com/jaranohaal/Data-Professional-Survey-Breakdown)
 [![Whisper-finetune-Kyrgyz](https://img.shields.io/badge/-Whisper--finetune--Kyrgyz-000?&logo=GitHub)](https://github.com/jaranohaal/Whisper-finetune-Kyrgyz)
 [![ViT-base-violence-detection](https://img.shields.io/badge/-ViT--base--violence--detection-000?&logo=GitHub)](https://github.com/jaranohaal/vit-base-violence-detection)
 [![Fake-news-classification](https://img.shields.io/badge/-Fake--news--classification-000?&logo=GitHub)](https://github.com/jaranohaal/Fake-news-classification)
